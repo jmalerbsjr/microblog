@@ -1,4 +1,6 @@
 
+Github location: https://github.com/jmalerbsjr/microblog
+
 # Chapter 1: Hello World
 ## Installed packages
 - pip install --upgrade pip
